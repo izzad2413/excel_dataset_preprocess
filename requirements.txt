@@ -3,3 +3,4 @@ pandas
 faker
 ipykernel
 openpyxl
+streamlit
