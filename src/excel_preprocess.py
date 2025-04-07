@@ -5,7 +5,7 @@ import io
 # clean the dataset
 def clean_dataset(df):
     # remove duplicate
-    df.drop.duplicates(inplace=True)
+    df.drop_duplicates(inplace=True)
     
     # reformat data type
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
