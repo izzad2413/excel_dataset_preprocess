@@ -21,6 +21,6 @@ This is a simple Streamlit application designed to clean multiple datasets from 
 To test the application, click this link: [Excel Data Cleaner](https://exceldatasetpreprocess-zadataintelligence.streamlit.app/)
 
 ## Version
-|Relase Version| Date Release | Description |
+|Release Version| Date Release | Description |
 | --- | --- | --- |
 | v1 | 07-04-2025 | Initial Release |
