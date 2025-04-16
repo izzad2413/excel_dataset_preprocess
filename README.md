@@ -1,5 +1,7 @@
 # Excel Data Cleaner
 
+![Image](https://github.com/user-attachments/assets/c2f9a739-d58c-4460-ac02-7bca74b04d4a)
+
 [![Static Badge](https://img.shields.io/badge/Back_to_Portfolio_Page-red?style=for-the-badge&logo=github&labelColor=black)](https://izzad2413.github.io/nazmirulizzadnassir.github.io/)
 
 ## Motivation
